@@ -38,6 +38,8 @@
                             <span class="navbar-toggler-icon"></span>
                         </button>
                         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                                <a calss="nav-link" href="../crud/index.php">Create data</a>
+                                <a calss="nav-link" href="../crud/read.php">Read data</a>
                             <div class="navbar-nav">
                                 <a class="nav-link" href="ex1.php">Exercise 1</a>
                                 <a class="nav-link" href="ex2.php">Exercise 2</a>
@@ -47,6 +49,7 @@
                                 <a class="nav-link" href="">Exercise 6</a>
                                 <a class="nav-link" href="">Exercise 7</a>
                             </div>
+
                         </div>
                     </div>
                 </nav>
