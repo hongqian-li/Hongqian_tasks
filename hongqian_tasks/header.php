@@ -38,13 +38,13 @@
                             <span class="navbar-toggler-icon"></span>
                         </button>
                         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-                                <a calss="nav-link" href="../crud/index.php">Create data</a>
-                                <a calss="nav-link" href="../crud/read.php">Read data</a>
                             <div class="navbar-nav">
-                                <a class="nav-link" href="ex1.php">Exercise 1</a>
-                                <a class="nav-link" href="ex2.php">Exercise 2</a>
-                                <a class="nav-link" href="ex3.php">Exercise 3</a>
-                                <a class="nav-link" href="ex4.php">Exercise 4</a>
+                                <a class="nav-link" href="../crud/index.php">Create data</a>
+                                <a class="nav-link" href="../crud/read.php">Read data</a>
+                                <a class="nav-link" href="../hongqian_tasks/ex1.php">Exercise 1</a>
+                                <a class="nav-link" href="../hongqian_tasks/ex2.php">Exercise 2</a>
+                                <a class="nav-link" href="../hongqian_tasks/ex3.php">Exercise 3</a>
+                                <a class="nav-link" href="../hongqian_tasks/ex4.php">Exercise 4</a>
                                 <a class="nav-link" href="https://github.com/hongqian-li/web-programming-project">Exercise 5</a>
                                 <a class="nav-link" href="">Exercise 6</a>
                                 <a class="nav-link" href="">Exercise 7</a>
