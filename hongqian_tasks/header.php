@@ -41,7 +41,7 @@
                             <div class="navbar-nav">
                                 <a class="nav-link" href="../crud/index.php">Create data</a>
                                 <a class="nav-link" href="../crud/read.php">Read data</a>
-                                <a class="nav-link" href="../hongqian_tasks/ex1.php">Exercise 11</a>
+                                <a class="nav-link" href="../hongqian_tasks/ex1.php">Exercise 1</a>
                                 <a class="nav-link" href="../hongqian_tasks/ex2.php">Exercise 2</a>
                                 <a class="nav-link" href="../hongqian_tasks/ex3.php">Exercise 3</a>
                                 <a class="nav-link" href="../hongqian_tasks/ex4.php">Exercise 4</a>
