@@ -1,5 +1,5 @@
 <?php
-$servername = "php24-db-1";
+$servername = "php24-php:latest";
 $username = "root";
 $password = "password";
 $dbname = "app1";
